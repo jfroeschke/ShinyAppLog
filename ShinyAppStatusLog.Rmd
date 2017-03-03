@@ -19,8 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 * Last commit
 * First commit
 * Current version
+    
 * To-do list
     + Convert all pop-ups to mapview
+    + ~~Add dynamic base map of nautical chart~~
+    + ~~Update addMouseCoordinates2~~
+    + ~~Remove mapview dependency~~
     
 ### EFH
 * Author(s)
