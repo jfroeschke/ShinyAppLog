@@ -21,6 +21,17 @@ knitr::opts_chunk$set(echo = TRUE)
 * Current version
 * To-do list
     + Convert all pop-ups to mapview
+    
+### EFH
+* Author(s)
+* URL (if deployed)
+* Git Repository
+* Purpose
+* Last commit
+* First commit
+* Current version
+* To-do list
+    + Add second y axis to age-length for inches display
 
 
 
