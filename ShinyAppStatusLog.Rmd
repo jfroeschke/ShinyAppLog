@@ -36,6 +36,14 @@ knitr::opts_chunk$set(echo = TRUE)
 * Current version
 * To-do list
     + Add second y axis to age-length for inches display
+    + ~~Bookmarking for specific pages for referencing in documents~~ CER
+    + Size at maturity markers on age/growth charts
+    + https://cran.r-project.org/web/packages/secret/index.html (New 07/06/2017)
 
-
+### Lobster Applications
+* Author(s) : Claire Roberts, John Froeschke
+* URL (if deployed) http://portal.gulfcouncil.org/SpinyLobsterManagement.html
+* To-do list
+    + Coordinates of each polygon in pop-up, considere html table from mapview
+    + add download link for shapfile or tabular data.  Could fortify the data into a readable table using the fortify function in ggplot2
 
